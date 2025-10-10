@@ -1,6 +1,6 @@
 <!-- Bannière animée espace -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:1a1f4b&height=200&section=header&text=LOUKA&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Web-App%20%7C%20En%20recherche%20d'alternance&descSize=20&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:1a1f4b&height=200&section=header&text=Louka%20Riquoir&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Développeur%20Web-App%20%7C%20En%20recherche%20d'alternance&descSize=20&descAlignY=55"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@ Je suis un développeur passionné par la création d'applications robustes et �
 
 ```javascript
 const explorer = {
-    nom: "Noa Peru",
+    nom: "Louka Riquoir",
     localisation: "🇫🇷 France",
     formation: "Étudiant en Informatique (BUT2)",
     spécialité: "Developer web/app",

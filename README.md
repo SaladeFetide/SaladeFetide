@@ -88,11 +88,8 @@ const profil = {
 
 ## 📂 Projets en cours
 
-- 🌐 **Portfolio** (à venir)
-- ☕ **Projets Java** (applications pédagogiques)
-- 🐍 **Projets Python** (algorithmes, scripts)
-- 💻 **Projets Web** (HTML/CSS/JS)
-- 📦 Centralisation de tous mes travaux sur GitHub
+- Création d'une Web App PokéBattle
+- Centralisation de tous mes travaux sur GitHub
 
 ---
 

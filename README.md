@@ -13,7 +13,6 @@
 
 Je suis actuellement à la recherche d'un :
 - **Stage de 10 semaines à partir du 13 avril 2026**, ou  
-- **Alternance à partir de février 2026**
 
 pour continuer à progresser en développement backend, frontend ou fullstack.
 

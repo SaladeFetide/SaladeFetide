@@ -77,6 +77,7 @@ const profil = {
 
 - Un environnement dans lequel je peux **coder réellement** (backend, frontend ou fullstack)
 - La possibilité de travailler sur :
+  - développement web
   - API
   - développement d'applications
   - base de données

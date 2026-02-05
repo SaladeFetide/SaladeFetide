@@ -78,7 +78,6 @@ const profil = {
 
 <div align="center">
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white" alt="Bruno"/>
 </div>
 
@@ -86,9 +85,6 @@ const profil = {
 
 <div align="center">
   <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping"/>
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-</div>
 
 ### Outils et Environnements
 
